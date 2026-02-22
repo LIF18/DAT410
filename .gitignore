@@ -1,0 +1,17 @@
+
+.venv/
+__pycache__/
+
+*.tif
+*.tiff
+Potsdam-GeoTif/
+ASS5/image/
+
+
+# *.pth
+# *.onnx
+*.zip
+*.data
+.DS_Store
+
+test.py
