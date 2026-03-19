@@ -6,7 +6,7 @@ __pycache__/
 *.tiff
 Potsdam-GeoTif/
 ASS5/image/
-
+miniproject/gomoku/
 
 # *.pth
 # *.onnx
